@@ -9,6 +9,7 @@
         <module name="jpa-demo" />
         <module name="jpa-intro" />
         <module name="spring-jpa-introduction-stevenlchea" />
+        <module name="spring-jpa-introduction-stevenlchea2" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="jpa-demo" options="-parameters" />
       <module name="spring-jpa-introduction-stevenlchea" options="-parameters" />
+      <module name="spring-jpa-introduction-stevenlchea2" options="-parameters" />
     </option>
   </component>
 </project>
